@@ -1,5 +1,11 @@
 # Frontend Mentor - Fylo Landing Page with Two Column Layout Solution
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/589b1d77-24cf-4787-800b-26c89ebda720/deploy-status)](https://app.netlify.com/sites/fyl-landing-page-two-column/deploys)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Last Commit](https://img.shields.io/gitlab/last-commit/Yashi-Singh-9/fylo-landing-page-with-two-column-layout)
+
 This repository contains my solution to the [Fylo landing page with two column layout challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-landing-page-with-two-column-layout-5ca5ef041e82137ec91a50f5). Frontend Mentor challenges are designed to help you enhance your coding skills by creating realistic projects.
 
 ## Table of Contents
@@ -36,7 +42,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/fylo-landing-page-with-two-column-layout-hUlggUtZLE)
 - Live Site URL: [Live Site](https://fyl-landing-page-two-column.netlify.app)
 
 ## My Process
