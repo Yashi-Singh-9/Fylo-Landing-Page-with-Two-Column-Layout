@@ -18,6 +18,7 @@ This repository contains my solution to the [Fylo landing page with two column l
   - [Built With](#built-with)
   - [What I Learned](#what-i-learned)
   - [Continued Development](#continued-development)
+- [Style Guide](#style-guide)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -86,6 +87,9 @@ In future projects, I aim to focus on:
 - Refining my skills with CSS preprocessors like Sass.
 - Exploring more advanced features of React and Next.js.
 
+## Style Guide
+
+For Style Guidance please refer to [Style Guide File](style-guide.md)
 
 ## Author
 
